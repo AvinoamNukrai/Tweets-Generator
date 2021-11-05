@@ -10,5 +10,7 @@ The program is expecting to get 4 arguments:
   2. Number of tweets (sentences) we want out program ro creat.
   3. Path file (input file).
   4. Number of word we want our program to read from the input file (none can be enter and the program will read the whole file.
+
 That's it! Hope you will have fun!
+
 Enjoy!
