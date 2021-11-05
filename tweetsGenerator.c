@@ -1,27 +1,4 @@
-/* Owner: Avinoam Nukrai
- * Id: 206997132
- * Mail: nukrai.avinoam@huji.mail.ac.il
- * Project: Ex3 in C & C++ course, Hebrew university
- * Project name: tweetsGenerator
- * Consulting: yonatan_guze1 & idan_shponder
-*/
-
-
-/** Program over view:
- * tweetGenerator is a program that creat tweets from a reservoir of sentences.
- * The tweets (sentences) that the program creat actually are being built in a
- * random way but base on the appearance of each word close to other word in
- * the input file. At the end we will get legal sentence.
- * The program is expecting to get 4 arguments:
- *  1. Seed value (for randomness of the rand func) [can with time also]
- *  2. Number of tweets (sentences) we want out program ro creat.
- *  3. Path file (input file).
- *  4 Number of word we want our program to read from the input file (none can
- *      be enter and the program will read the whole file.
- *  That's it! Hope you will have fun!
- *  Enjoy!
-*/
-
+// Written by Avinoam Nukrai
 
 #include <stdio.h>
 #include <stdlib.h>
